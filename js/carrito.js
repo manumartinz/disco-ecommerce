@@ -13,7 +13,3 @@ for (let i = 0; i < localStorage.length; i++) {
     }
 
 }
-const btnCompra = document.getElementById('btn-compra');
-btnCompra.addEventListener('click', () => {
-    localStorage.getItem('zapatilla', alert(value))
-})

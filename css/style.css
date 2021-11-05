@@ -60,6 +60,10 @@ a {
     text-transform: uppercase;
 }
 
+.menu .menu__item .activo {
+    color: var(--blue);
+}
+
 .menu .menu__item a:hover {
     color: var(--blue);
     transition: all 300ms;

@@ -18,7 +18,6 @@
     <title>DISCO</title>
     <!-- Scripts -->
     <script src="https://kit.fontawesome.com/06efabafe0.js" crossorigin="anonymous"></script>
-    <script src="js/main.js"></script>
 </head>
 
 <body>
@@ -35,7 +34,7 @@
                     <a href="nike.html">Nike</a>
                 </li>
                 <li class="menu__item">
-                    <a href="adidas.html">Adidas</a>
+                    <a class="activo" href="adidas.html">Adidas</a>
                 </li>
                 <li class="menu__item">
                     <a href="puma.html">Puma</a>
@@ -47,7 +46,7 @@
                     <a href="fila.html">FILA</a>
                 </li>
             </ul>
-            <a class="nav__icono" href=""><i class="fas fa-shopping-cart"></i></a>
+            <a class="nav__icono" href="carrito.html"><i class="fas fa-shopping-cart"></i></a>
         </nav>
     </header>
     <section class="section">
@@ -73,87 +72,7 @@
             </ul>
             <img src="../img/adidads.png" alt="">
         </div>
-        <div class="seccion__productos">
-            <div class="producto">
-                <img src="../img/zadidas.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas1.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas2.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas3.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas4.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas5.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas6.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas8.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas7.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
-            <div class="producto">
-                <img src="../img/zadidas9.webp" alt="">
-                <h3>
-                    Nombre
-                </h3>
-                <p>Precio</p>
-                <a href="">Comprar</a>
-            </div>
+        <div id="productoSeccion" class="seccion__productos">
         </div>
         <div class="section__renovate">
             <br>
@@ -195,6 +114,7 @@
         </div>
         <p>Designed by <a href="https://github.com/manumartinz" target="_blank">manu</a></p>
     </footer>
+    <script src="../js/prod-adidas.js" type="module"></script>
 </body>
 
 </html>

@@ -18,7 +18,6 @@
     <title>DISCO</title>
     <!-- Scripts -->
     <script src="https://kit.fontawesome.com/06efabafe0.js" crossorigin="anonymous"></script>
-    <script src="js/main.js"></script>
 </head>
 
 <body>
@@ -32,7 +31,7 @@
     <section class="section">
         <h1>Mi Carrito</h1>
         <div class="section__carrito">
-            <table class="carrito">
+            <table id="prodTabla" class="carrito">
                 <thead>
                     <th>Producto</th>
                     <th>Envío</th>
@@ -41,22 +40,6 @@
                     <th>Total</th>
                     <th>Quitar</th>
                 </thead>
-                <tbody align="center">
-                    <td class="carrito__img"><img src="../img/zjordan1.webp" alt=""></td>
-                    <td>Por Sucursal</td>
-                    <td>$35999</td>
-                    <td>1</td>
-                    <td>$35999</td>
-                    <td><button>X</button></td>
-                </tbody>
-                <tbody align="center">
-                    <td class="carrito__img"><img src="../img/zjordan5.webp" alt=""></td>
-                    <td>$800</td>
-                    <td>$29999</td>
-                    <td>1</td>
-                    <td>$29999</td>
-                    <td><button>X</button></td>
-                </tbody>
             </table>
         </div>
         <div class="section__compras">
@@ -68,7 +51,7 @@
             </div>
             <div class="compra">
                 <a class="bn40" href="../index.html">Seguir Comprando</a>
-                <button class="bn5">Comprar</button>
+                <button id="btn-compra" class="bn5">Comprar</button>
             </div>
         </div>
     </section>
@@ -101,6 +84,9 @@
         </div>
         <p>Designed by <a href="https://github.com/manumartinz" target="_blank">manu</a></p>
     </footer>
+
+
+    <script src="../js/carrito.js" type="module"></script>
 </body>
 
 </html>

@@ -1,0 +1,82 @@
+[{
+        "id": 11,
+        "img": "../img/zfila.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "img": "../img/zfila1.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "img": "../img/zfila2.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "img": "../img/zfila3.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "img": "../img/zfila4.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "img": "../img/zfila5.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 17,
+        "img": "../img/zfila6.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 18,
+        "img": "../img/zfila7.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 19,
+        "img": "../img/zfila8.webp",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 20,
+        "img": "../img/zfila9.jpg",
+        "marca": "Fila",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    }
+
+]

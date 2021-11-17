@@ -1,0 +1,82 @@
+[{
+        "id": 21,
+        "img": "../img/zjordan.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 22,
+        "img": "../img/zjordan1.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 23,
+        "img": "../img/zjordan2.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 24,
+        "img": "../img/zjordan3.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 25,
+        "img": "../img/zjordan4.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 26,
+        "img": "../img/zjordan5.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 27,
+        "img": "../img/zjordan6.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 28,
+        "img": "../img/zjordan7.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 29,
+        "img": "../img/zjordan8.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 30,
+        "img": "../img/zjordan9.webp",
+        "marca": "Jordan",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    }
+
+]

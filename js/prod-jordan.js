@@ -1,15 +1,23 @@
-import { prodJordan } from './productos.js'
+const url = "../js/db/prod-jordan.json"
 
 
-prodJordan.forEach((p) => {
-    const seccionProducto = document.getElementById('productoSeccion')
-    seccionProducto.innerHTML += `<div class="producto"><img src="${p.img}" alt=""><h3>${p.marca}</h3><p>${p.precio}</p><a id="btnCompra${p.id}" href="">Comprar</a></div>`
-});
+$.getJSON(url, (response, status) => {
 
-prodJordan.forEach((p) => {
-    const btnCompra = document.getElementById(`btnCompra${p.id}`)
-    btnCompra.addEventListener('click', () => {
-        localStorage.setItem(`zapatilla${p.id}`, JSON.stringify(prodJordan[p.id - 1]))
-    })
+
+    if (status !== 'success') {
+        throw new Error('Error')
+    }
+
+    for (const p of response) {
+
+        const seccionProducto = $('#productoSeccion');
+        seccionProducto.prepend(`<div class="producto"><img src="${p.img}" alt=""><h3>${p.marca}</h3><p>$${p.precio}</p><a id="btnCompra${p.id}" href="">Comprar</a></div>`);
+
+        const btnCompra = $(`#btnCompra${p.id}`)
+        btnCompra.click(() => {
+            localStorage.setItem(`zapatilla${p.id}`, JSON.stringify(response[p.id - 21]))
+
+        })
+    }
 
 })

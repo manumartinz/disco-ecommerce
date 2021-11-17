@@ -1,0 +1,82 @@
+[{
+        "id": 31,
+        "img": "../img/znike.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 32,
+        "img": "../img/znike1.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 33,
+        "img": "../img/znike2.jpg",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 34,
+        "img": "../img/znike3.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 35,
+        "img": "../img/znike4.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 36,
+        "img": "../img/znike5.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 37,
+        "img": "../img/znike6.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 38,
+        "img": "../img/znike7.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 39,
+        "img": "../img/znike8.jpg",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 40,
+        "img": "../img/znike9.webp",
+        "marca": "Nike",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    }
+
+]

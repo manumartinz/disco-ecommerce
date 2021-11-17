@@ -396,6 +396,23 @@ a {
     font-family: 'Poppins', sans-serif;
 }
 
+.btn-borrar {
+    background-color: #919191;
+    outline: none;
+    border: none;
+    padding: 2px 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: 'poppins', sans-serif;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.btn-borrar:hover {
+    background-color: var(--blue);
+    transition: all 300ms;
+}
+
 .bn40 {
     border-radius: 4px;
     font-weight: 600;
@@ -482,4 +499,28 @@ a {
     left: 0;
     top: 0;
     border-radius: 10px;
+}
+
+.goup {
+    background: transparent;
+    bottom: 0px;
+    display: block;
+    height: 50px;
+    position: fixed;
+    right: 0px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.goup i {
+    display: flex;
+    color: var(--blue);
+    font-size: 40px;
+    justify-content: center;
+    margin-top: 5px;
+    transition: all 300ms;
+}
+
+.goup i:hover {
+    color: #7a90ff;
 }

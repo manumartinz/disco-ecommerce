@@ -1,0 +1,82 @@
+[{
+        "id": 41,
+        "img": "../img/zpuma.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 42,
+        "img": "../img/zpuma1.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 43,
+        "img": "../img/zpuma2.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 44,
+        "img": "../img/zpuma3.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 45,
+        "img": "../img/zpuma4.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 46,
+        "img": "../img/zpuma5.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 47,
+        "img": "../img/zpuma6.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 48,
+        "img": "../img/zpuma7.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 49,
+        "img": "../img/zpuma8.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 50,
+        "img": "../img/zpuma9.jpg",
+        "marca": "Puma",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    }
+
+]

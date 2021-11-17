@@ -1,0 +1,82 @@
+[{
+        "id": 51,
+        "img": "../img/zreebok.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 52,
+        "img": "../img/zreebok1.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 53,
+        "img": "../img/zreebok2.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 54,
+        "img": "../img/zreebok3.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 55,
+        "img": "../img/zreebok4.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 56,
+        "img": "../img/zreebok5.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 57,
+        "img": "../img/zreebok6.jpg",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": "1"
+    },
+    {
+        "id": 58,
+        "img": "../img/zreebok7.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    },
+    {
+        "id": 59,
+        "img": "../img/zreebok8.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "hombre",
+        "cantidad": 1
+    },
+    {
+        "id": 60,
+        "img": "../img/zreebok9.webp",
+        "marca": "Reebok",
+        "precio": 20000,
+        "genero": "mujer",
+        "cantidad": 1
+    }
+
+]

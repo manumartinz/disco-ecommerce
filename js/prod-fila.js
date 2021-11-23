@@ -14,6 +14,7 @@ $.getJSON(url, (response, status) => {
         const btnCompra = $(`#btnCompra${p.id}`)
         btnCompra.click(() => {
             localStorage.setItem(`zapatilla${p.id}`, JSON.stringify(response[p.id - 11]))
+            alert('Producto agregado al carrito.')
         })
 
     }

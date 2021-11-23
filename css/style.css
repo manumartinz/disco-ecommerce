@@ -397,19 +397,50 @@ a {
 }
 
 .btn-borrar {
-    background-color: #919191;
+    background-color: #ccc;
     outline: none;
     border: none;
-    padding: 2px 5px;
-    font-size: 15px;
+    padding: 8px;
+    font-size: 12px;
     border-radius: 5px;
-    font-family: 'poppins', sans-serif;
     cursor: pointer;
-    color: #FFF;
 }
 
 .btn-borrar:hover {
     background-color: var(--blue);
+    transition: all 300ms;
+    color: #FFF;
+}
+
+#sumarCant {
+    background-color: #ccc;
+    border: none;
+    margin: 10px;
+    padding: 4px;
+    font-size: 13px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+#sumarCant:hover {
+    background-color: #3ac504;
+    transition: all 300ms;
+}
+
+#quitarCant {
+    background-color: #ccc;
+    border: none;
+    margin: 10px;
+    padding: 4px;
+    font-size: 13px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+#quitarCant:hover {
+    background-color: #e41313;
     transition: all 300ms;
 }
 
